@@ -24,6 +24,18 @@ export const products = [
         price: 299,
         description: '',
     },
+    {
+        id: 4,
+        name: 'Realme',
+        price: 1299,
+        description: 'A great phone with one of the best cameras',
+    },
+    {
+        id: 5,
+        name: 'One Plus Nord',
+        price: 800,
+        description: 'A great phone with one of the best cameras',
+    }
 ];
 
 /*
